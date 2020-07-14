@@ -1,5 +1,5 @@
 # AlgorithmsInPython
-Common algorithms written in Python during a Udacity course on Data Structures and Algorithms
+Common algorithms in Python
 
  <ul>
   <li>Bubble Sort optimised</li>
@@ -8,6 +8,8 @@ Common algorithms written in Python during a Udacity course on Data Structures a
   <li>Queue using Python List</li>
   <li>Stack using Linked List</li>
   <li>Singly Linked List</li>
+ <li>Breadth-first Search</li>
+ <li>Depth-first Search</li>
 </ul>
   
   
