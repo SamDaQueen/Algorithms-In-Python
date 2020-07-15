@@ -1,5 +1,6 @@
-# AlgorithmsInPython
-Common algorithms in Python
+# Algorithms in Python
+
+<h4>Common algorithms and data structures in Python</h4>
 
  <ol>
   <li>Bubble Sort optimised</li>
